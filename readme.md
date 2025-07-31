@@ -14,7 +14,7 @@ A lightweight, browser-based web scraper that extracts data from [quotes.toscrap
 
 | HTML Inspection | Query Selection | Console Output |
 |-----------------|-----------------|----------------|
-| ![HTML](./screenshots/browser_inspect.png) | ![Query](./screenshots/console.png) | ![Console](./screenshots/js_in_console.png) |
+| ![HTML](./browser_dev_tool_scraping/blob/main/console.png) | ![Query](./screenshots/console.png) | ![Console](./screenshots/js_in_console.png) |
 
 ---
 
